@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\prime\target\scala-2.12\prime_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Prime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\prime\target\scala-2.12\classes\Prime$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Prime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\prime\target\scala-2.12\classes\Prime.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\prime\target\scala-2.12\classes\Test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\prime\target\scala-2.12\classes\Test.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
